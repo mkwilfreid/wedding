@@ -1,0 +1,272 @@
+
+/* Cover Page  */
+
+	.invite-cover {	background-color: #fff; }
+	/* Body Text Color */
+	.invite-cover .site-wrapper-inner {	color: #eee; }
+	/* Not active menu link color */
+	.invite-cover .masthead-nav li a {	color: #333;  }
+	.invite-cover .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-cover .invite-icon:after { 	box-shadow: inset 0 0 0 10px gray; }
+	
+	/* Dashed icon round border color */
+	.invite-cover .roundicon {	border: 2px dashed rgba(150,150,150,0.4); }
+	
+	/* Page Icon Color */
+	.invite-cover .invite-icon { color: #eee; }
+	
+	/* Page Title */
+	.invite-cover .cover-heading {	color: #333; }
+	.invite-cover .lead {	color: #8b8b8b; }
+	.invite-cover .sub-text { color: #8b8b8b; }
+	
+	.invite-cover .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-cover .wediviteFooter {	color: rgba(0,0,0,0.5); }
+
+
+
+/* RSVP Page  */
+
+	.invite-rsvp {	background-color: #000; }
+	/* Body Text Color */
+	.invite-rsvp .site-wrapper-inner {	color: #eee; }
+	/* Not active menu link color */
+	.invite-rsvp .masthead-nav li a {	color: #eee;  }
+	.invite-rsvp .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-rsvp .invite-icon:after {
+	 	box-shadow: inset 0 0 0 10px #fff;  
+	 	margin: -114px 0 0 -115px;
+	 }
+	
+	/* Dashed icon round border color */
+	.invite-rsvp .roundicon {	border: 2px dashed rgba(150,150,150,0.4); }
+	
+	/* Page Icon Color */
+	.invite-rsvp .invite-icon { color: #fff; font-size: 105px; line-height: 2.4; }
+	
+	/* Page Title */
+	.invite-rsvp .cover-heading {	color: #fff; }
+	.invite-rsvp .lead {	color: #8b8b8b; }
+	.invite-rsvp .sub-text { color: #8b8b8b; }
+	
+	.invite-rsvp .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-rsvp .wediviteFooter {	color: rgba(0,0,0,0.5); }
+
+
+
+/* Directions Page  */
+
+	.invite-directions {	background-color: #DB84AD; }
+	/* Body Text Color */
+	.invite-directions .site-wrapper-inner {	color: #fff; }
+	/* Not active menu link color */
+	.invite-directions .masthead-nav li a {	color: #333;  }
+	.invite-directions .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-directions .invite-icon:after {
+	 	box-shadow: inset 0 0 0 10px #b55381;  
+	 	margin: -114px 0 0 -115px;
+	 }
+	
+	/* Dashed icon round border color */
+	.invite-directions .roundicon {	border: 2px dashed rgba(255,255,255,0.8); }
+	
+	/* Page Icon Color */
+	.invite-directions .invite-icon { color: #fff; font-size: 105px; line-height: 2.4; }
+	
+	/* Page Title */
+	.invite-directions .cover-heading {	color: #fff; }
+	.invite-directions .lead {	color: #fff; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	.invite-directions .sub-text { color: #fff; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	
+	.invite-directions .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-directions .wediviteFooter {	color: rgba(255,255,255,0.9); }
+
+
+
+/* Songs Page  */
+
+	.invite-songs {	background-color: #5BC2CE; }
+	/* Body Text Color */
+	.invite-songs .site-wrapper-inner {	color: #fff; }
+	/* Not active menu link color */
+	.invite-songs .masthead-nav li a {	color: #000;  }
+	.invite-songs .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-songs .invite-icon:after {
+	 	box-shadow: inset 0 0 0 10px #fff;  
+	 	margin: -114px 0 0 -115px;
+	 }
+	
+	/* Dashed icon round border color */
+	.invite-songs .roundicon {	border: 2px dashed #379eaa; }
+	
+	/* Page Icon Color */
+	.invite-songs .invite-icon { color: #277d87; font-size: 105px; line-height: 2.4; }
+	
+	/* Page Title */
+	.invite-songs .cover-heading {	color: #fff; }
+	.invite-songs .lead {	color: #fff; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	.invite-songs .sub-text { color: #fff; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	
+	.invite-songs .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-songs .wediviteFooter {	color: rgba(255,255,255,0.9); }
+
+
+/* Gifts Page  */
+
+	.invite-gift {	background-color: #FFEB41; }
+	/* Body Text Color */
+	.invite-gift .site-wrapper-inner {	color: #000; }
+	/* Not active menu link color */
+	.invite-gift .masthead-nav li a {	color: #000;  }
+	.invite-gift .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-gift .invite-icon:after {
+	 	box-shadow: inset 0 0 0 10px #fff;  
+	 	margin: -114px 0 0 -115px;
+	 }
+	
+	/* Dashed icon round border color */
+	.invite-gift .roundicon {	border: 2px dashed rgba(150,150,150,0.4); }
+	
+	/* Page Icon Color */
+	.invite-gift .invite-icon { color: #333; font-size: 105px; line-height: 2.6; }
+	
+	/* Page Title */
+	.invite-gift .cover-heading {	color: #333; }
+	.invite-gift .lead {	color: #333; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	.invite-gift .sub-text { color: #000; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	
+	.invite-gift .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-gift .wediviteFooter {	color: rgba(0,0,0,0.9); }
+
+/* Greetings Page  */
+
+	.invite-greetings {	background-color: #5BC2CE; }
+	/* Body Text Color */
+	.invite-greetings .site-wrapper-inner {	color: #fff; }
+	/* Not active menu link color */
+	.invite-greetings .masthead-nav li a {	color: #333;  }
+	.invite-greetings .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-greetings .invite-icon:after {
+	 	box-shadow: inset 0 0 0 10px #fff;  
+	 	margin: -114px 0 0 -115px;
+	 }
+	
+	/* Dashed icon round border color */
+	.invite-greetings .roundicon {	border: 2px dashed #379eaa; }
+	
+	/* Page Icon Color */
+	.invite-greetings .invite-icon { color: #277d87; font-size: 105px; line-height: 2.6; }
+	
+	/* Page Title */
+	.invite-greetings .cover-heading {	color: #fff; }
+	.invite-greetings .lead {	color: #fff; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	.invite-greetings .sub-text { color: #fff; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	
+	.invite-greetings .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-greetings .wediviteFooter {	color: rgba(255,255,255,0.9); }
+
+
+/* Album Page  */
+
+	.invite-album {	background-color: #000; }
+	/* Body Text Color */
+	.invite-album .site-wrapper-inner {	color: #fff; }
+	/* Not active menu link color */
+	.invite-album .masthead-nav li a {	color: #eee;  }
+	.invite-album .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-album .invite-icon:after {
+	 	box-shadow: inset 0 0 0 10px #fff;  
+	 	margin: -114px 0 0 -115px;
+	 }
+	
+	/* Dashed icon round border color */
+	.invite-album .roundicon {	border: 2px dashed gray; }
+	
+	/* Page Icon Color */
+	.invite-album .invite-icon { color: #eee; font-size: 105px; line-height: 2.5; }
+	
+	/* Page Title */
+	.invite-album .cover-heading {	color: #fff; }
+	.invite-album .lead {	color: #eee; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	.invite-album .sub-text { color: #eee; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	
+	.invite-album .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-album .wediviteFooter {	color: rgba(255,255,255,0.9); }
+
+
+/* Registry Page  */
+
+	.invite-registry {	background-color: #FFEB41; }
+	/* Body Text Color */
+	.invite-registry .site-wrapper-inner {	color: #000; }
+	/* Not active menu link color */
+	.invite-registry .masthead-nav li a {	color: #000;  }
+	.invite-registry .masthead-nav .active a {
+		/* Active Menu link color */
+		color: #883d59;
+		border-bottom-color: #883d59;
+	}
+	/* Bold icon circle border color */
+	.invite-registry .invite-icon:after {
+	 	box-shadow: inset 0 0 0 10px #fff;  
+	 	margin: -114px 0 0 -115px;
+	 }
+	
+	/* Dashed icon round border color */
+	.invite-registry .roundicon {	border: 2px dashed rgba(150,150,150,0.4); }
+	
+	/* Page Icon Color */
+	.invite-registry .invite-icon { color: #333; font-size: 105px; line-height: 2.45; padding-left: 20px; }
+	
+	/* Page Title */
+	.invite-registry .cover-heading {	color: #333; }
+	.invite-registry .lead {	color: #333; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	.invite-registry .sub-text { color: #000; text-shadow: 0px 1px 1px rgba(0,0,0,0.3); }
+	
+	.invite-registry .roundicon img {	width: 260px; height: 260px; }
+
+	.invite-registry .wediviteFooter {	color: rgba(0,0,0,0.9); }
+
+	.invite-registry .registry .customRegistry { color: #000; }
